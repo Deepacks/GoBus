@@ -13,3 +13,5 @@ The **concepts** folder is designed to showcase and explain key components of th
 1. **Modbus Client**: A Modbus client implementation that demonstrates sending read and write requests to a Modbus server, specifically for interacting with holding registers.
 
 2. **Modbus Server**: A Modbus server that handles read and write requests for holding registers.
+
+3. **UDS IPC Client**: A UNIX Domain Socket client that reads requests and sends an ACK response.
